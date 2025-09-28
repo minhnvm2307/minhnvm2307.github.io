@@ -20,12 +20,9 @@
   },
   "devDependencies": {
     "@parcel/watcher": "^2.5.1",
-    "@parcel/watcher-win32-x64": "^2.5.1",
     "@tailwindcss/cli": "^4.1.13",
     "@tailwindcss/forms": "^0.5.10",
-    "@tailwindcss/oxide-win32-x64-msvc": "^4.1.13",
     "@tailwindcss/typography": "^0.5.16",
-    "lightningcss-win32-x64-msvc": "^1.30.1",
     "prettier": "^3.6.2",
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.6.14",
