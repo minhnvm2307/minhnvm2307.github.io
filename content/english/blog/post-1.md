@@ -4,7 +4,7 @@ meta_title: ""
 description: "AWS solution architecture for real-time fraud detection and alerting system using Streamlit and SageMaker, was built for VPBank Hackathon 2025."
 date: 2025-08-03T05:00:00Z
 image: "/images/blog_images/post-1-poster.png"
-categories: ["Application", "Cloud"]
+categories: ["Application", "Cloud", "Project"]
 author: "Nguyễn Văn Minh"
 tags: ["AWS", "Machine learning"]
 draft: false

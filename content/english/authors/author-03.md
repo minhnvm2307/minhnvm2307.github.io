@@ -1,8 +1,8 @@
 ---
-title: Nguyễn Văn Minh
-email: nguyenvancanh197309@gmail.com
-image: "/images/avatar-images/avatar1.png"
-description: ML passionator
+title: Happy Avocado
+email: minhnvm2307@email.com
+image: "/images/avatar-images/avatar-3.png"
+description: Healthy Food Lover
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-"People say nothing is impossible, but I do nothing every day." – A. A. Milne
+"Happiness is not something ready-made. It comes from your own actions." - Dalai Lama

@@ -1,5 +1,5 @@
 ---
 title: "Blog Posts"
 meta_title: ""
-description: "this is meta description"
+description: "Shared articles, collections on technology, programming, and data science."
 ---

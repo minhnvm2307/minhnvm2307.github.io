@@ -34,4 +34,10 @@
   <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
     {{ T "read_more" }}
   </a>
+  {{ if in .Params.categories "Project" }}
+    <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
+      <i class="fa-brands fa-github"></i>
+      {{ T "source_code" }}
+    </a>
+  {{ end }}
 </div>
